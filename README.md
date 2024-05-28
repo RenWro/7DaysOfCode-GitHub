@@ -1,6 +1,8 @@
 <h1>Vídeos propostos para entender GitHub</h1>
     <h2>#7DaysOfCode Alura</h2>
 
+![7daysof](https://github.com/RenWro/7DaysOfCode-GitHub/assets/134458911/b38ca43b-907a-479e-a651-13791e7c603a)
+
 1. [Como personalizar o seu perfil no Github (Readme)](https://www.youtube.com/watch?v=TsaLQAetPLU)
 2. [GitHub sem linhas de comando](https://www.youtube.com/watch?v=vhqTiQdUHfY)
 3. [ImersãoDev - O que é GitHub e como utilizar a ferramenta? - c/ Robson Júnior](https://www.youtube.com/watch?v=nec3n02idMw)
