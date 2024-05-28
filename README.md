@@ -1,4 +1,4 @@
-<h1> #7DaysOfCode Alura </h1>
+<h1> #7DaysOfCode Alura - GitHub </h1>
 
 ![7daysof](https://github.com/RenWro/7DaysOfCode-GitHub/assets/134458911/b38ca43b-907a-479e-a651-13791e7c603a)
 
