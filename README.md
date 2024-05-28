@@ -1,4 +1,5 @@
 <h1>Vídeos propostos para entender GitHub</h1>
+    <h2>#7DaysOfCode Alura</h2>
 
 1. [Como personalizar o seu perfil no Github (Readme)](https://www.youtube.com/watch?v=TsaLQAetPLU)
 2. [GitHub sem linhas de comando](https://www.youtube.com/watch?v=vhqTiQdUHfY)
