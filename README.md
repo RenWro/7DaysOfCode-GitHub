@@ -3,7 +3,8 @@
 ![7daysof](https://github.com/RenWro/7DaysOfCode-GitHub/assets/134458911/b38ca43b-907a-479e-a651-13791e7c603a)
 
 <h1>Vídeos propostos para entender GitHub</h1>
-1. [Como personalizar o seu perfil no Github (Readme)](https://www.youtube.com/watch?v=TsaLQAetPLU)<br>
+
+1. [Como personalizar o seu perfil no Github (Readme)](https://www.youtube.com/watch?v=TsaLQAetPLU) <br>
 2. [GitHub sem linhas de comando](https://www.youtube.com/watch?v=vhqTiQdUHfY)<br>
 3. [ImersãoDev - O que é GitHub e como utilizar a ferramenta? - c/ Robson Júnior](https://www.youtube.com/watch?v=nec3n02idMw)<br>
 4. [Git e Github para Sobrevivência #01: Como o Git funciona?](https://www.youtube.com/watch?v=BAmvmaKQklQ&list=PLh2Y_pKOa4Uf-cUQOVNGlz_GVHx8QYoE6&index=2)<br>
